@@ -10,7 +10,7 @@
 
 > ### Overview
 
-Created from scratch a **3D scene** with [Blender](https://www.blender.org) software. My 3D scene presents a realistic depiction of a breakfast in the dining room, inside a house. The scene includes objects with basic materials such as:
+Created from scratch a **3D scene** with [Blender](https://www.blender.org) software. My 3D scene presents a realistic depiction of a **breakfast in the dining room**, inside a house. The scene includes objects with basic materials such as:
 
 - Displacement mapping
 - Bump mapping
