@@ -6,7 +6,7 @@
 
 > ### Rendering of 3D Scene
 
-<img src=" " width="800">
+<img src="Breakfast-In-The-Dining-Room.png" width="800">
 
 > ### Overview
 
