@@ -1,6 +1,6 @@
 # Breakfast in the Dining Room
 
-- **Project:** [Breakfast-In-The-Dining-Room]() 
+- **Project:** [Breakfast-In-The-Dining-Room]() **LOCKED 🔒**
 - **PDF Report:** [Breakfast-In-The-Dining-Room.pdf](https://github.com/alexoiik/3D-Graphics/blob/master/Breakfast-In-The-Dining-Room.pdf) 
 - **Rendering:** [Breakfast-In-The-Dining-Room.png](https://github.com/alexoiik/3D-Graphics/blob/master/Breakfast-In-The-Dining-Room.png) 
 
